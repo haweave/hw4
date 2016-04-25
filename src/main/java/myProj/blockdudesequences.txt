@@ -1,0 +1,5 @@
+Value iteration
+west; west; pickup; east; up; up; putdown; west; west; west; pickup; east; up; up; east; putdown; up; up; up; east; east; west; pickup; west; up; east; putdown; up; up; pickup; west; west; up; west; putdown; east; up; east; up; pickup; west; up; west; west; putdown; east; up; east; pickup; west; up; putdown; east; east; up; pickup; west; west; up; west; west; west; up; west; west; west; putdown; east; up; up; east; up; pickup; west; up; west; west; putdown; east; up; up; east; pickup; west; up; west; west; up; putdown; up; up; west; west; west
+
+Policy iteration
+west; west; pickup; east; up; up; putdown; west; west; west; pickup; east; up; up; east; putdown; up; up; up; east; east; west; pickup; west; up; east; putdown; up; up; pickup; west; west; up; west; putdown; east; up; east; up; pickup; west; up; west; west; putdown; east; up; east; up; east; pickup; west; west; up; putdown; east; pickup; west; up; west; west; west; up; west; west; putdown; east; up; up; east; up; pickup; west; up; west; west; up; putdown; east; up; up; east; pickup; west; up; west; west; up; putdown; up; up; west; west; west
